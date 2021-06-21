@@ -19,6 +19,8 @@ keypoints:
 To build a pivot table:
 1. Put your cursor anywhere in your data set, and then click "Pivot Table" on the insert tab
 
+![spreadsheet setup](../fig/PivotTableIMG1.png)
+
 
 2. You will see the Create Pivot Table window. The default location for your pivot able will be a New Worksheet. 
 Data could look like this:
